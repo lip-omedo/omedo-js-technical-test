@@ -16,7 +16,7 @@ Le backend de l'application doit permettre de répondre aux exigences suivantes 
 
 ## Frontend
 La création du Frontend de l'application est libre, mais voici quelques fonctionnalités obligatoires :
-- Afficher une liste de pharmacies triées par la distance par rapport à un point GPS (centre de paris). Cette information est envoyée au backend.
+- Afficher une liste de pharmacies triées par la distance par rapport à un point GPS (centre de paris). Cette information (geolocalisation) doit etre envoyée du front vers le back.
 - Pour chaque pharmacie, afficher un bouton qui permet de supprimer la pharmacie.
 - Optionnel : Utiliser la librairie https://mui.com/
 - Optionnel : Responsive Design
